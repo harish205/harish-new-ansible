@@ -1,0 +1,5 @@
+---
+  - name: create a file 
+    file:
+      path: /home/uma1/harish.txt
+      state: touch     
